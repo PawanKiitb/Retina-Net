@@ -1,4 +1,3 @@
-````markdown name=README.md
 # Retina-Net
 
 **An Object Detection Model Trained on the Stanford Drone Dataset**
@@ -37,7 +36,6 @@ Key features:
   - [Inference](#inference)
 - [Results](#results)
 - [Code Structure](#code-structure)
-- [Acknowledgements](#acknowledgements)
 
 ---
 
